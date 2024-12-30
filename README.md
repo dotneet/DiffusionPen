@@ -4,7 +4,7 @@
   <b>
     <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/11492_ECCV_2024_paper.php">ECCV Paper</a>
     |
-    <a href="http://www.arxiv.org/abs/2409.06065">ArXiv</a>
+    <a href="https://www.arxiv.org/abs/2409.06065">ArXiv</a>
     |
     <a href="https://drive.google.com/file/d/1BXHPPpjD84mhdYUnnHeXCc-A-3tWhkaR/view?usp=share_link">Poster</a>
     |
